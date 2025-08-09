@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">
+        This service is used to automatically send WhatsApp messages at scheduled times. 
+        It will detect when WhatsApp is opened with a pre-filled message and automatically 
+        click the send button. This service only works with WhatsApp and does not access 
+        any other apps or data.
+    </string>
+</resources>
